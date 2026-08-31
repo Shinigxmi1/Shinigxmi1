@@ -15,20 +15,11 @@ Hi, Myself Akash bartwal, a Highly motivated and skilled Software Engineer with 
 
 
 
-
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shinigxmi1&show_icons=true&theme=tokyonight&hide_border=false" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Shinigxmi1&theme=tokyonight&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinigxmi1&theme=tokyonight&hide_border=false&layout=compact" />
+<img src="https://streak-stats.demolab.com/?user=Shinigxmi1&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
