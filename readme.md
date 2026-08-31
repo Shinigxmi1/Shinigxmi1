@@ -1,5 +1,7 @@
 # 💫 About Me:
 Hi, Myself Akash bartwal, a Highly motivated and skilled Software Engineer with expertise in cloud technologies, full-stack development, and AWS serverless architecture. Experienced in developing scalable and secure applications with strong problem-solving skills in data structures and algorithms using C++. Hands-on experience in AI/ML, computer vision, and real-time systems.
+![Cover Picture](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25ucHp3bGNtYTN0cHd0eGc5Y2J3NTNzYzg0ZWllMDhib3o4em5nbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp)
+
 
 
 ## 🌐 Socials:
