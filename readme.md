@@ -16,10 +16,22 @@ Hi, Myself Akash bartwal, a Highly motivated and skilled Software Engineer with 
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shinigxmi1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shinigxmi1&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinigxmi1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shinigxmi1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shinigxmi1&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinigxmi1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+</div>
+
 
 
 ### ✍️ Random Dev Quote
