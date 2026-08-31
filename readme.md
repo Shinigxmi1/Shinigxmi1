@@ -20,15 +20,15 @@ Hi, Myself Akash bartwal, a Highly motivated and skilled Software Engineer with 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shinigxmi1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shinigxmi1&show_icons=true&theme=tokyonight&hide_border=false" />
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shinigxmi1&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Shinigxmi1&theme=tokyonight&hide_border=false" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinigxmi1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinigxmi1&theme=tokyonight&hide_border=false&layout=compact" />
 
 </div>
 
