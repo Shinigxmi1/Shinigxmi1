@@ -1,7 +1,10 @@
 # 💫 About Me:
-Somewhere between “it should work” and “why the hell is it not working?”
-I write code, solve problems, and occasionally win arguments with the compiler.
-Akash Bartwal — currently debugging reality. 💻
+> Somewhere between **“it should work”** and **“why the hell is it not working?”**
+>
+> I write code, solve problems, and occasionally win arguments with the compiler.
+>
+> ### `Akash Bartwal` — currently debugging reality. 💻
+
 
 ![Cover Picture](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25ucHp3bGNtYTN0cHd0eGc5Y2J3NTNzYzg0ZWllMDhib3o4em5nbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp)
 
