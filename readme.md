@@ -41,10 +41,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Shinigxmi1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
 ### 👀 Profile Visitors
 
-[![](https://visitcount.itsvg.in/api?id=Shinigxmi1&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=Shinigxmi1&text=Profile%20Visitors&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
